@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hello Guyz,
+
+I am Rohit and it's 
+my first repository
